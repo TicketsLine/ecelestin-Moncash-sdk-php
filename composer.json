@@ -8,17 +8,15 @@
     ],
     "homepage": "https://github.com/DGCGroup/MonCash-PHP-SDK",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "",
-            "email": "rulxphilome.alexis@gmail.com",
-            "homepage": "https://github.com/rpalexis",
-            "role": "Developer"
-        }
-    ],
+    "authors": [{
+        "name": "",
+        "email": "rulxphilome.alexis@gmail.com",
+        "homepage": "https://github.com/rpalexis",
+        "role": "Developer"
+    }],
     "require": {
-        "guzzlehttp/guzzle": "^6.3",
-        "phpunit/phpunit": "^4.8"
+        "guzzlehttp/guzzle": "^7.0.1",
+        "phpunit/phpunit": "^9.3.3"
     },
     "autoload": {
         "psr-4": {
